@@ -5,7 +5,7 @@ body {
   font-size: 18px;
   line-height: 1.6;
   font-weight: lighter;
-  font-family: 'Lora', serif;
+  font-family: 'Lora';
 }
 
 .banner {
@@ -27,7 +27,7 @@ h1 {
 
 p {
   font-family: 'Montserrat';
-  color: rgb(5,5,10);
+  color: rgb(5,5,5);
 }
 
 #sub-title {
@@ -44,7 +44,7 @@ h1, h2 {
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
 }
-user agent stylesheet
+
 h2 {
   display: block;
   font-size: 1.5em;
